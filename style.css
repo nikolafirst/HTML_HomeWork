@@ -1,11 +1,4 @@
-.title{
-    color: darkcyan;
-    border: 1px solid darkcyan;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-.heading{
-    color: orange;
+a {
+    text-decoration: none;
 }
 
