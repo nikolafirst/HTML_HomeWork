@@ -2,6 +2,10 @@ a {
     text-decoration: none;
 }
 
+body{
+    font-family: sans-serif;
+}
+
 .navi-menu {
     color: cornflowerblue;
     font-size: 16px;
@@ -9,7 +13,7 @@ a {
 
 }
 
-.title {
+.title-h1 {
     color: #222222;
     font-size: 28px;
     line-height: 36px;
@@ -17,6 +21,14 @@ a {
 
 }
 
+.title-h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+
+}
 .paragraf {
     font-style: normal;
     font-weight: 300;
@@ -25,11 +37,8 @@ a {
     color: #7D7987
 }
 
-.second-title {
-    color: coral;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 80px;
-
+.photo{
+    border-radius: 14px;
+    height: 340px;
+    width: 540px;
 }
